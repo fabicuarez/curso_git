@@ -1,0 +1,105 @@
+    1  ls
+    2  ls-a
+    3  cd downloads
+    4  mkdir teste
+    5  mkdir 'teste teste'
+    6  mkdir 'pasta3' nps
+    7  rm-r 'teste teste'
+    8  rm-r teste
+    9  rm-r teste
+   10  rm-r
+   11  rm -r teste
+   12  rm -r teste teste
+   13  rm -r teste3
+   14  rm -r pasta3
+   15  rm -r 'teste teste'
+   16  mv 'nps' cambio
+   17  mv 'nps' imagens
+   18  mv nps imagens
+   19  mv cambio imagens
+   20  mv 'cambio' imagens
+   21  mv cambio imagens/
+   22  touch fabi.txt
+   23  echo 'fabi es muy inteligente'
+   24  cat fabi.txt
+   25  echo 'fabi es muy inteligente'´> comando
+   26  cat
+   27  cat > comando
+   28  cat >> comando
+   29  clear
+   30  git config --global user.name 'Fabiana Cuarez'
+   31  git config --global user.email 'fabiana.cuarez02@gmail.com
+   32  git config --global user.email 'fabiana.cuarez02@gmail.com'
+   33  git config user.name
+   34  cd documentos
+   35  cd documentos/
+   36  cd documentos
+   37  cd curso_toti
+   38  ls
+   39  ls -a
+   40  cd
+   41  cd~
+   42  cd ~
+   43  cd documentos
+   44  pwd
+   45  ls
+   46  cd documents
+   47  ls
+   48  cd curso_toti
+   49  cd..
+   50  cd ..
+   51  mkdir Aprendiendo_Git
+   52  cd Aprendiendo_git
+   53  git config user.name
+   54  git init
+   55  git status
+   56  echo '#Aprendiendo Profundo'
+   57  rm -r #Aprendiendo profundo
+   58  rm -r '#aprendiendo profundo'
+   59  touch '#Aprendiendo2' > readme.md
+   60  git status
+   61  git add readme.md
+   62  git add #aprendiendo2
+   63  rm -r #aprendiendo2
+   64  git status
+   65  git add aprendiendo2
+   66  git status
+   67  git commit -m 'commit inicial'
+   68  git status
+   69  git add 
+   70  echo 'aula 03'`>> readme.md
+
+
+/
+finish
+
+   71  git status
+   72  echo 'aula' >> readme.md
+   73  git status
+   74  echo 'fabiana cuarez' > participantes.txt
+   75  git status
+   76  git add .
+   77  git status
+   78  rm -r #aprendiendo2
+   79  rm --help
+   80  git status
+   81  git restore --staged participantes.txt
+   82  git status
+   83  git add participantes.txt
+   84  git status
+   85  rm -r aprendiendo2
+   86  mv '#aprendiendo2' aprendiendo
+   87  git status
+   88  git restore --staged.
+   89  git restore --staged .
+   90  git status
+   91  rm -r aprendiendo
+   92  git staus
+   93  git status
+   94  git commit -am 'alteraçao no readme'
+   95  git status
+   96  git add participantes.txt
+   97  git status
+   98  git commit -m 'adicionando participantes.txt'
+   99  history > Aula 3.txt
+  100  history > aula_03.txt
