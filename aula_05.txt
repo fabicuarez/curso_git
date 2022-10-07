@@ -1,0 +1,309 @@
+    1  git log
+    2  git log
+    3  history
+    4  git init
+    5  history
+    6  git config
+    7  git config user.name
+    8  cd documents
+    9  git log
+   10  clear
+   11  git log
+   12  cd aprendiendo_git
+   13  git log
+   14  cd documents
+   15  cd aprendiendo_hit
+   16  cd aprendiendo_git
+   17  git log
+   18  cd documents
+   19  cd aprendiendo_git
+   20  git log
+   21  git log --pretty=oneline
+   22   git log--stat
+   23  git log --stat
+   24  git log -p
+   25  git log -p -2
+   26  git log --pretty=oneline -3
+   27  git log --since+2.minutes
+   28  git log --since+20.minutes
+   29  git log --since=1.day
+   30  git log --since=30.minutes
+   31  git log --since=40.minutes
+   32  git log --since=30.minutes
+   33  git log -p
+   34  git log -p -2
+   35  git log pretty=oneline -2
+   36  git log pretty=oneline-2
+   37  git log --pretty=oneline  -2
+   38  git log --pretty=oneline  -4
+   39  git log --since=2.minutes
+   40  git log --since=20.minutes
+   41  git log --since=1.hour
+   42  git log --since=1.day
+   43  git log --since=2.day
+   44  git log --since=2.weeks
+   45  git log -p
+   46  git log --author='fabiana cuarez'
+   47  git log --author='Fabiana Cuarez'
+   48  git status
+   49  touch teste
+   50  git add teste
+   51  git status
+   52  git commit -m 'commit de teste'
+   53  git log
+   54  git reset --soft HEAD~
+   55  git log
+   56  git status
+   57  git commit -m 'commit de teste'
+   58  git log
+   59  git reset --hard
+   60  git reset --hard HEAD~
+   61  git log
+   62  git status
+   63  git log pretty=oneline
+   64  git log --pretty=oneline
+   65  git checkout HEAD~~
+   66  git status
+   67  git log
+   68  ls
+   69  git checkout master
+   70  git log
+   71  git checkout HEAD~2
+   72  git log
+   73  git checkout HEAD~
+   74  git checkout master
+   75  clear
+   76  mkdir .vscode
+   77  touch confi.txt
+   78  mv confi.txt .vscode
+   79  git status
+   80  ls .vscode
+   81  ls
+   82  ls -a
+   83  git status
+   84  echo '.vscode/'> .gitignore
+   85  git status
+   86  toti pessoal.conf
+   87  toch pessoal.conf
+   88  touch pessoal.conf
+   89  git status
+   90  echo 'pessoal.conf/'>> .gitignore
+   91  git status
+   92  git add .gitignore
+   93  git add .gitignore
+   94  git commit -m 'Adicionado Arquivo .gitignore'
+   95  git status
+   96  rm -r pessoal.conf
+   97  git status
+   98  history > 
+   99  history
+  100  history>
+  101  history  >
+  102  history > comandos
+  103  history > comandos
+  104  history > comando
+  105  history > aula_04.txt
+  106  git status
+  107  git add aula_04.txt
+  108  git status
+  109  git commit -m 'comandos da aula 4'
+  110  git status
+  111  rm -r comando
+  112  rm -r comandos
+  113  git status
+  114  history
+  115  clear
+  116  history
+  117  clear
+  118  git branch
+  119  git checkout -b feature
+  120  git branch
+  121  touch Nova_feature
+  122  git status
+  123  git add Nova_feature
+  124  git commit -m 'Adicionando nova feature'
+  125  git log
+  126  git checkout master
+  127  git status
+  128  git log
+  129  touch Continuando_master
+  130  git add Continuando_master
+  131  git commit -m 'adicionando continuaçao na master'
+  132  git log
+  133  git checkout feature
+  134  git log
+  135  git checkout -b feature2
+  136  git checkout -b feature2 master
+  137  git log
+  138  git checkout master
+  139  git branch -d feature2
+  140  git log
+  141  git checkout feature
+  142  git log
+  143  git branch -d feature2
+  144  git log
+  145  git checkout master
+  146  git branch
+  147  git checkout feature2
+  148  git log
+  149  clear
+  150  git checkout future
+  151  git checkout feature
+  152  git log --pretty=oneline --graph
+  153  git merge master
+  154  git log
+  155  git log --pretty=oneline --graph
+  156  gir reset --hard
+  157  git reset --hard HEAD~
+  158  git log --pretty=oneline --graph
+  159  git rebase master
+  160  git log --pretty=oneline --graph
+  161   git branch
+  162  git branch
+  163  clear
+  164  bit branch
+  165  git branch
+  166  git checkout -b master
+  167  git checkout -b feature
+  168  git branch
+  169  git branch
+  170  git checkout master
+  171  git checkout master
+  172  git branch -d master
+  173  git checkout -b feature2 feature
+  174  git branch
+  175  git checkout
+  176  git checkout master
+  177  history
+  178  git log
+  179  git branch
+  180  git checkout master
+  181  git checkout master
+  182  git checkout -b master
+  183  git branch
+  184  git log
+  185  git branch -d feature
+  186  git branch -d 'feature'
+  187  git checkout master
+  188  git log
+  189  git log --pretty=oneline
+  190  git log --stat
+  191  git reset
+  192  git reset --hard HEAD~
+  193  git reset --hard HEAD~
+  194  git log
+  195  git config
+  196  git log --author='Fabiana Cuarez'
+  197  git log -op
+  198  git branch
+  199  git branch
+  200  history
+  201  git checkout master
+  202  git ckeckout feature
+  203  git --help
+  204  git branch
+  205  git checkout feature
+  206  git branch
+  207  git checkout -b feature
+  208  git branch
+  209  git branch
+  210  git push origin
+  211  git branch -a
+  212  gir branch  -a
+  213  ls
+  214  cd documents
+  215  cd Aprendiendo_git
+  216  git branch
+  217  git checkout master
+  218  git checkout feature
+  219  touch Nova_feature
+  220  git status
+  221  git status
+  222  touch nova_feature
+  223  touch Nova_feature
+  224  git status
+  225  touch #nova_feature
+  226  touch 'nova_feature'
+  227  git status
+  228  touch Nova_feature.tx
+  229  touch nova_feature.txt
+  230  touch nana
+  231  git status
+  232  rm -r Nova_feature.tx
+  233  rm -r nova_feature.txt
+  234  rm -r nana
+  235  git status
+  236  touch Novs_feature
+  237  git status
+  238  git add .
+  239  git status
+  240  git commit -m 'adicionando nova feature'
+  241  git log
+  242  git checkout master
+  243  git checkout master
+  244  cd documents
+  245  cd aprendiendo_git
+  246  git checkout master
+  247  git branch
+  248  git status
+  249  git log
+  250  git branch -d
+  251  git branch -d feature
+  252  git branch
+  253  git branch -d 'feature'
+  254  git branch -D feature
+  255  git branch
+  256  git checkout -b feature
+  257  git branch
+  258  touch nova_feature
+  259  git status
+  260  git add .
+  261  git status
+  262  git commit -m 'adicionando nova feature'
+  263  git log
+  264  git checkout mastr
+  265  git checkout master
+  266  git log
+  267  rm -r 'adicionando continuaçao na master'
+  268  rm -r adicionando continuaçao na master
+  269  ri -r 'adicionando continuaçao na master'
+  270  rm -r 'adicionando continuaçao na master'
+  271  git reset --soft HEAD~
+  272  git status
+  273  rm -r 'continuando_master'
+  274  git status
+  275  rm -r 'Continuando_master'
+  276  rm -r Continuando_master
+  277  git status
+  278  git commit
+  279  git branch
+  280  git log
+  281  touch continuando_master
+  282  git add .
+  283  git commit ' adicionando continuacao na master'
+  284  git log
+  285  git commit -m 'adicionando continuacao na master'
+  286  git log
+  287  git checkout feature
+  288  git log
+  289  git checkout -b feature2
+  290  git status
+  291  git branch -d feature2
+  292  git checkout feature
+  293  git branch -d feature2
+  294  git branch -b feature2 master
+  295  git checkout -b feature2 master
+  296  git log
+  297  git checkout master
+  298  git branch -d feature2
+  299  clear
+  300  git checkout feature
+  301  git log --pretty=oneline --graph
+  302  git merge master
+  303  git log
+  304  git log --pretty=oneline --graph
+  305  git reset --hard HEAD~
+  306  git log --pretty=oneline --graph
+  307  git rebase master
+  308  git log --pretty=oneline --graph
+  309  history > aula_05.txt
