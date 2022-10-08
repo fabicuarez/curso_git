@@ -1,8 +1,5 @@
-aula 
 aula 1
 
+aprendendo a usar o git
 
-aprendendo a usar o git 
-
-
-o que foi que eu aprendi?
+o que eu aprendi aqui?
