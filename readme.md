@@ -1,5 +1,5 @@
-##aula 1
+# aula 1
 
-##aprendendo a usar o git
+## aprendendo a usar o git
 
-o que eu aprendi aqui??
+aprendi a instalar o git
